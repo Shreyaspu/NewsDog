@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.card {
+  border-color: #000000;
+}
+
+.card-body {
+  background-color: #000000;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
